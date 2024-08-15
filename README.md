@@ -1,4 +1,7 @@
-# Network-Monitoring-project
+# Snort network-monitoring-project
+
+![image](https://github.com/user-attachments/assets/8fe1389b-d959-4189-ad2b-43a397b7b589)
+
 
 ## PROJECT OBJECTIVE
 To gain practical experience in network monitoring with Snort (IDS/IPS), focusing on threat detection and log analysis for security incidents as a SOC Analyst.
