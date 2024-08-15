@@ -7,6 +7,4 @@ To gain practical experience in network monitoring with Snort (IDS/IPS), focusin
 
 
 ## SKILLS GAINED
-- Intrusion detection
-
-## OUTCOME
+- IDS: detailed log analysis, effectively responding to alerts, and creating customized rules to enhance network security.
